@@ -408,3 +408,8 @@ Phishing simulations, when done responsibly, can help individuals and organizati
 - [Setting Up Gophish](https://www.youtube.com/watch?v=nx3RGOu2z5I)
 
 By leveraging these resources, you can deepen your understanding of phishing and cybersecurity.
+
+# Reigen hopes that you did not fall asleep and took notes
+![Reigen hopes that you did not fall asleep and took notes](https://64.media.tumblr.com/96e01baf73e074d24e329d43176c71d1/b4358ee1bbfc0dd4-0a/s540x810/a2ba1dfbcdd4a9a6677ab0c5ed6bad42b7df8ae4.gifv)
+
+
