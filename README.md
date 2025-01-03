@@ -388,7 +388,7 @@ When performing phishing simulations, it's important to act ethically and respec
 
 ### 5. **Comply with Legal and Ethical Standards:**
    - Adhere to local laws and regulations.
-   - Follow ethical guidelines like the [OWASP Code of Ethics](https://owasp.org/www-project-code-of-ethics/).
+   - Follow ethical guidelines like the [OWASP Code of Ethics](https://owasp.org/www-policy/operational/code-of-conduct).
 
 Phishing simulations, when done responsibly, can help individuals and organizations improve their cybersecurity posture.
 
@@ -404,8 +404,11 @@ Phishing simulations, when done responsibly, can help individuals and organizati
 - [Cybersecurity Awareness Guide](https://staysafeonline.org/): Resources from the National Cybersecurity Alliance.
 
 ### Videos and Tutorials
-- [How to Spot a Phishing Email](https://www.youtube.com/watch?v=9Wz6ozGs5Tc)
-- [Setting Up Gophish](https://www.youtube.com/watch?v=nx3RGOu2z5I)
+1. [Recognize and Report Phishing](https://www.youtube.com/watch?v=JlQovysQBn0)  
+   A concise video that educates viewers on identifying and reporting phishing attempts.
+
+2. [Phishing Awareness Videos](https://security.berkeley.edu/education-awareness/phishing/phishing-awareness-videos)  
+   The Information Security Office at UC Berkeley provides a series of videos on phishing awareness, including topics like "What is Phishing?" and "How to Identify Phishing Emails."  
 
 By leveraging these resources, you can deepen your understanding of phishing and cybersecurity.
 
