@@ -58,12 +58,12 @@ This repository is designed to **educate students and security professionals** o
 - **Simulated Phishing Emails**: Scripts to send phishing emails in a secure lab environment.
 - **Resources**: Articles, videos, and tools for learning about phishing awareness and detection.
 - **How to prevent and Detect Phishing attacks**
-- **1. Anatomy of a Phishing Attack**
-- **2. Advanced Phishing Techniques**
-- **3. Simulating a Safe Phishing Lab**
-- **4. Case Studies: Real-World Phishing Attacks**
-- **5. Ethical Guidelines for Phishing Simulations**
-- **6. Additional Resources**
+- **Anatomy of a Phishing Attack**
+- **Advanced Phishing Techniques**
+- **Simulating a Safe Phishing Lab**
+- **Case Studies: Real-World Phishing Attacks**
+- **Ethical Guidelines for Phishing Simulations**
+- **Additional Resources**
 
 
 ## 🚨 Disclaimer
