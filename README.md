@@ -67,14 +67,14 @@ This repository is **strictly for educational purposes**. Misusing this content 
 
 ## 📂 Repository Contents
 
-### [Exemples](exemples/)
+### [Exemples](examples/)
 - **Cloned Sites**: Replicas of login pages for phishing demonstration purposes. Contains:
   - HTML structure. ( base)
   - CSS styling. (base )
   - JavaScript validation. ( base )
   - Amazon.be 
 
-### [Scripts](scripts/)`
+### [Scripts](scripts/)
 - **Webhook Demo**: A Python Flask script to show how phishing data is captured.
 - **Discord Webhook Demo** : Another way to do it with discord (what I personnally used)
 - **Phishing Email Simulation**: Sample Python scripts to demonstrate phishing emails.
