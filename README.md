@@ -411,6 +411,8 @@ By leveraging these resources, you can deepen your understanding of phishing and
 
 # Reigen hopes that you did not fall asleep and took notes
 
-[Reigen hopes that you did not fall asleep and took notes](https://64.media.tumblr.com/96e01baf73e074d24e329d43176c71d1/b4358ee1bbfc0dd4-0a/s540x810/a2ba1dfbcdd4a9a6677ab0c5ed6bad42b7df8ae4.gifv)
+![Reigen with a pen](https://static.wikia.nocookie.net/p__/images/6/64/Reigen_with_a_pen.gif/revision/latest?cb=20230829020915&path-prefix=protagonist)
+
+
 
 
