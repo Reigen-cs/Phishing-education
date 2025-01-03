@@ -51,6 +51,8 @@ else:
 
 Check the Discord channel where you set up the webhook. You should see a message with the fake login data.
 
+![Result Image](result.PNG)
+
 ### 4. Simulating Advanced Webhook Attacks
 
 Webhook with Geolocation
