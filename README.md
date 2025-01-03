@@ -1,3 +1,7 @@
+# This time we'll study a way more serious case.
+
+![Go](https://i.pinimg.com/originals/cf/4b/7a/cf4b7ac80ea2af6ea6260b3a19a172c0.gif)
+
 # Phishing Education Repository
 
 # 📚 Table of Contents
